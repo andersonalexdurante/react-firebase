@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #4a90e2;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #333333;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .loading {
+    font-size: 18px;
+    color: #666666;
+    margin-top: 20px;
+  }
+  
